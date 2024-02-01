@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+
+#Add a shebang line that points to your Python interpreter
+
 import pandas as pd
 import requests
 import json
